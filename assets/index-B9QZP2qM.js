@@ -15,7 +15,7 @@
       </div>
   </section>
 <section class="z-10 min-h-full relative bg-primary-400 text-primary-100 flex pt-10  items-center justify-center">
-  <img class="absolute top-2 sm:top-4 -translate-y-full" src="${s2}">
+  <img class="absolute top-4 sm:top-4 md:top-6 -translate-y-full w-full" src="${s2}">
       <div class="sm:mr-10" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
         <img class="h-20 hidden sm:block" src="${d2}" alt="whistle">
       </div>
@@ -25,12 +25,12 @@
       </div>
     </section>
     <section class="min-h-full overflow-x-hidden relative bg-primary-400 text-primary-100 flex flex-col items-center justify-center py-5">
-      <div class="flex flex-col mb-10" data-aos="fade-right" data-aos-anchor-placement="center-bottom">
+      <div class="flex flex-col mb-10 max-w-7xl" data-aos="fade-right" data-aos-anchor-placement="center-bottom">
         <p class="text-3xl md:text-4xl font-bold">Esquema tático</p>
         <img class="h-14 md:h-16 translate-x-1/4 -translate-y-1/3" src="${l2}">
       </div>
       <div class="w-full px-4 md:pl-20">
-        <ul class="mb-10">
+        <ul class="mb-10 md:ml-52">
           <li data-aos="fade-right" data-aos-anchor-placement="center-bottom" class="flex items-center mb-5">
             <p class="text-6xl font-extrabold text-primary-200 w-20">1</p>
             <div class="self-end max-w-md text-start ml-2">
@@ -58,7 +58,7 @@
     </section>
     <section class=" min-h-screen relative -z-10 bg-primary-200 text-primary-700 flex flex-col py-10 md:py-0 md:flex-row justify-center items-center">
      <div data-aos="fade-up" data-aos-anchor-placement="center-bottom" class="max-w-xl px-4 sm:pr-32 mb-20">
-      <p class="font-extrabold text-4xl mb-10 text-center md:text-left">O Planeta é seu <strong class="text-primary-400">técnico</strong></p>
+      <p class="font-extrabold text-4xl mb-10 text-center md:text-left">O Planeta é o seu <strong class="text-primary-400">técnico</strong></p>
       <p>Agora que você já sabe o esquema tático do descarte correto, tá na hora de entrar em campo e fazer sua parte. Descartar radiografias antigas no lugar certo não só te deixa livre de bagunça, como ainda garante que o meio ambiente continue jogando no seu time.</p>
      </div>
      <img class="h-64 md:self-end -mb-2" data-aos="fade-up" data-aos-anchor-placement="center-bottom" src="${r2}">
